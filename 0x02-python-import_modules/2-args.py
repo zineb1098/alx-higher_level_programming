@@ -14,5 +14,5 @@ if __name__ == "__main__":
     if(len(sys.argv) > 1):
         for a in sys.argv:
             if i > 0:
-                print("{:d}: {}".format(i, a))
+        print("{:d}: {}".format(i, a))
             i += 1

@@ -1,8 +1,7 @@
 #!/usr/bin/python3
-"""
-module "0-rectangle"
-"""
+""" Create a rectangle class """
 
 
 class Rectangle:
+    """Definition of class rectangle"""
     pass
